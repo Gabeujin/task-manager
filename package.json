@@ -1,0 +1,24 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "A simple to-do manager web application with Jira.\r <br/>\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabeujin/task-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gabeujin/task-manager/issues"
+  },
+  "homepage": "https://github.com/Gabeujin/task-manager#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
